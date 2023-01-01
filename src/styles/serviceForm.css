@@ -1,0 +1,21 @@
+.input {
+    width: 600px;
+    margin-bottom: 18px;
+}
+
+.label {
+    font-size: large;
+}
+
+.button {
+    margin-top: 28px;
+    background-color: rgb(64, 64, 174);
+    color: aliceblue;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+/* .field {
+    display: flex;
+    flex-direction: column;
+} */
